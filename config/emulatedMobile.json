@@ -1,5 +1,5 @@
 {
-  "extends": "/config/secrets.json",
+  "extends": "./config/secrets.json",
   "browsertime": {
     "connectivity": {
       "engine": "throttle",
@@ -7,7 +7,7 @@
     },
     "mobile": true,
     "visualElements": true,
-    "iterations": 3,
+    "iterations": 9,
     "browser": "chrome",
     "video": true,
     "visualMetric": true,

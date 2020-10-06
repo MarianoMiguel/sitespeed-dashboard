@@ -1,12 +1,12 @@
 {
-  "extends": "/config/webpagetest-secrets.json",
+  "extends": "./config/webpagetest-secrets.json",
   "browsertime": {
     "connectivity": {
       "engine": "throttle",
       "profile": "cable"
     },
     "visualElements": true,
-    "iterations": 1,
+    "iterations": 9,
     "browser": "chrome",
     "video": true,
     "visualMetric": true
