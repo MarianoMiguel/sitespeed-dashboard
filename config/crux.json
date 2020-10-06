@@ -1,5 +1,5 @@
 {
-  "extends": "./config/crux.json",
+  "extends": "./crux.json",
   "plugins": {
     "remove": "browsertime"
   }
