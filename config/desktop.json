@@ -1,5 +1,5 @@
 {
-  "extends": "/home/ubuntu/sitespeed-dashboard/config/secrets.json",
+  "extends": "/config/secrets.json",
   "browsertime": {
     "connectivity": {
       "engine": "throttle",
