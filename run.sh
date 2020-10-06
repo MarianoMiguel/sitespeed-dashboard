@@ -84,4 +84,4 @@ done
 # instead make sure you remove all volumes (of data)
 # docker volume prune -f
 docker system prune --all --volumes -f
-sleep 3600
+sleep 20
