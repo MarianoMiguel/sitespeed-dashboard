@@ -1,5 +1,5 @@
 {
-  "extends": "desktop.json",
+  "extends": "/home/ubuntu/sitespeed-dashboard/config/desktop.json",
   "axe": {
     "enable": true
   },

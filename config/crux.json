@@ -1,5 +1,5 @@
 {
-  "extends": "crux.json",
+  "extends": "/home/ubuntu/sitespeed-dashboard/config/crux.json",
   "plugins": {
     "remove": "browsertime"
   }
